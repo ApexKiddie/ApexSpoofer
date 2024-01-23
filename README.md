@@ -1,5 +1,5 @@
 # ApexSpoofer
-A spoofer for Apex Legends that I made. One free perm spoof then anything else is $20.
+A spoofer for Apex Legends that I made that will work on any non kernel anticheat(everything but valorant). One free perm spoof then anything else is $20.
 
 Download and run the file. It usually doesn't work with antivirus because it is editing hardware values which could be considered tampering. You can try it with though.
 A gui will pop up and ask what serial numbers you want spoofed. Plug any other extra devices like controllers in so they get spoofed too. 
